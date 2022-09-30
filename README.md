@@ -1,4 +1,5 @@
-### Hi there 👋
+## Namaste 🙏
+I'm Gourav R, A Junior Student pursuing bachelors in computer Science and Engineering.
 
 <!--
 **g-gourav-r/g-gourav-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
