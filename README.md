@@ -1,15 +1,15 @@
-# Hey there, I'm [Your Name]! 👋
+# Hey there, I'm Gourav R! 👋
 
-I moonlight as a [Your Profession] with a knack for [Your Interests]. Welcome to the carnival of code that is my GitHub profile! Here's a fun-filled glimpse into my world:
+Welcome to the carnival of code that is my GitHub profile!
+Here's a fun-filled glimpse into my world:
 
 - 🔭 I’m currently conjuring magic with [Current Project or Job]. 🎩✨
 - 🌱 I’m planting seeds of knowledge in the garden of [What You're Learning]. 🌱📚
 - 👯 I’m all ears for a lively collaboration on [Open Source Projects or Interests]. 🤝🚀
 - 💬 You can ask me anything, but I'm especially well-versed in [Your Expertise]. 💬🤓
-- 📫 Reach me through [Your Email Address] or join me in the digital circus on:
-  - [LinkedIn](Your LinkedIn Profile URL) 🎪
-  - [Twitter](Your Twitter Profile URL) 🐦
-  - [My Wacky Portfolio](Your Portfolio Website URL) 🎉
+- 📫 Reach me through gouravrchandra@gmail.com or join me in the digital circus on:
+  - [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/gourav-r/)) 🎪
+  - [My Wacky Portfolio](https://www.linkedin.com/in/gourav-r/) 🎉
 
 ## 🚀 My Cosmic Toolbox
 
@@ -23,14 +23,13 @@ I wield a cosmic toolbox of technologies and tools, including:
 
 Catch my digital comet across the web:
 
-- 🪐 [LinkedIn](Your LinkedIn Profile URL)
-- 🌠 [Twitter](Your Twitter Profile URL)
-- 🌌 [My Dazzling Portfolio](Your Portfolio Website URL)
-- 📧 [Email](Your Email Address)
+- 🪐 [LinkedIn](https://www.linkedin.com/in/gourav-r/)
+- 🌌 [My Dazzling Portfolio](https://www.linkedin.com/in/gourav-r/)
+- 📧 [Email](gouravrchandra@gmail.com)
 
 ## 📊 GitHub Galactic Stats
 
-![My GitHub Galactic Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![My GitHub Galactic Stats](https://github-readme-stats.vercel.app/api?username=g-gourav-r&show_icons=true&theme=radical)
 
 ## 🌟 My Stellar Projects
 
