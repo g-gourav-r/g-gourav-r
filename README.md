@@ -4,7 +4,7 @@ Before I dive into telling you more about myself, let me showcase a few projects
 
 🌟 Projects that make me proud
 -----------------------------------------
- #### Smart Carry
+ #### Smart Carry (IoT)
 🎒 We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? 😟
 
 Introducing my project to help overcome this issue:
@@ -14,7 +14,19 @@ Introducing my project to help overcome this issue:
 Smart Carry is a revolutionary solution designed to ensure that carrying your backpack is not a burden on your health. With this project, I aim to create awareness and provide practical tips and tools to prevent spinal problems caused by incorrect backpack usage.
 
 ----------------
-2. 🌟 [Project 2 Name](Link to Project 2 Repository) - Another exciting project with a brief description.
+#### Evade Hunger (PHP)
+
+🍽️ Food is what has kept us alive till now, but it's disheartening to think that in some places, food goes to waste due to excess while others struggle to find a meal. 😔
+
+Introducing my project aimed at bridging this gap:
+
+🌐 Project Name: Evade Hunger (PHP)
+
+Evade Hunger is a compassionate initiative designed to tackle the issue of food wastage and food insecurity. With this web application, I aim to connect surplus food providers with those in need, creating a platform for sharing and caring.
+
+🌟 [Evade Hunger](https://github.com/g-gourav-r/Evade-Hunger)
+
+-------------------------
 3. 🔥 [Project 3 Name](Link to Project 3 Repository) - And here's one more for good measure.
 
 These projects are just a glimpse of what I've been up to. Now, let me share more about my background and interests.
