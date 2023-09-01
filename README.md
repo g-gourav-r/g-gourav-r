@@ -26,10 +26,6 @@ I wield a cosmic toolbox of technologies and tools, including:
 - 🌌 [My Dazzling Portfolio](https://www.linkedin.com/in/gourav-r/)
 - 📧 [Email](gouravrchandra@gmail.com)
 
-## 📊 GitHub Galactic Stats
-
-![My GitHub Galactic Stats](https://github-readme-stats.vercel.app/api?username=g-gourav-r&show_icons=true&theme=radical)
-
 ## 🌟 Projects that make me proud
 
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Insurance-Cost-Predictor&theme=radical)
