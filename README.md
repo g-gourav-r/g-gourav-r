@@ -2,7 +2,7 @@
 
 Before I dive into telling you more about myself, let me showcase a few projects I'm incredibly proud of building:
 
-##🌟 Projects that make me proud
+🌟 Projects that make me proud
 -----------------------------------------
  #### Smart Carry
 🎒 We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? 😟
