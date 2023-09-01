@@ -1,5 +1,21 @@
 # Hey there, I'm Gourav R! 👋
 
+Before I dive into telling you more about myself, let me showcase a few projects I'm incredibly proud of building:
+
+- 🎒 We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? 😟
+
+Introducing my project to help overcome this issue:
+
+🚀 [Smart Backpack](https://github.com/g-gourav-r/Smart-Carry-Bagpack)
+
+Smart Carry is a revolutionary solution designed to ensure that carrying your backpack is not a burden on your health. With this project, I aim to create awareness and provide practical tips and tools to prevent spinal problems caused by incorrect backpack usage.
+
+----------------
+2. 🌟 [Project 2 Name](Link to Project 2 Repository) - Another exciting project with a brief description.
+3. 🔥 [Project 3 Name](Link to Project 3 Repository) - And here's one more for good measure.
+
+These projects are just a glimpse of what I've been up to. Now, let me share more about my background and interests.
+
 Welcome to the carnival of code!
 
 Here's a fun-filled glimpse into my world:
