@@ -31,11 +31,12 @@ I wield a cosmic toolbox of technologies and tools, including:
 ![My GitHub Galactic Stats](https://github-readme-stats.vercel.app/api?username=g-gourav-r&show_icons=true&theme=radical)
 
 ## 🌟 Projects that make me proud
-## 🌟 My Top Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Insurance-Cost-Predictor&theme=radical)](Link to Project 1 Repository)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical)](Link to Project 2 Repository)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=radical)](Link to Project 3 Repository)
+![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Insurance-Cost-Predictor&theme=radical)
+
+(Link to Project 1 Repository)
+![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Smart-Carry-Bagpack&theme=radical)](Link to Project 2 Repository)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=project-3&theme=radical)](Link to Project 3 Repository)
 
 
 Feel free to embark on a journey through my repositories to explore more of my digital escapades!
