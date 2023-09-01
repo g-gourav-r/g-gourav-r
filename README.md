@@ -18,7 +18,7 @@ Smart Carry is a revolutionary solution designed to ensure that carrying your ba
 
 🍽️ Food is what has kept us alive till now, but it's disheartening to think that in some places, food goes to waste due to excess while others struggle to find a meal. 😔
 
-Introducing my project aimed at bridging this gap:
+Introducing my project aimed at bridging this gap :
 
 🌟 [Evade Hunger](https://github.com/g-gourav-r/Evade-Hunger)
 
