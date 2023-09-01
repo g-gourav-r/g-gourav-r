@@ -15,7 +15,7 @@ Here's a fun-filled glimpse into my world:
 
 I wield a cosmic toolbox of technologies and tools, including:
 
-- 🪄 HTML, CSS, PHP, JS
+- HTML, CSS, PHP, JS
 - 🔮 Python
 - 🌟 C, C++
 - 📱 MAD ( Mobile Application Development )
@@ -35,6 +35,8 @@ I wield a cosmic toolbox of technologies and tools, including:
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Insurance-Cost-Predictor&theme=radical)
 ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Smart-Carry-Bagpack&theme=radical)
 ![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Evade-Hunger&theme=radical)
+[![Medical Insurance Cost Predictor](https://img.shields.io/badge/Project%20Name-Click%20to%20Read%20More-blue)]([https://github.com/your-username/your-repository](https://github.com/g-gourav-r/Insurance-Cost-Predictor#readme))
+
 
 
 Feel free to embark on a journey through my repositories to explore more of my digital escapades!
