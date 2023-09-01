@@ -35,6 +35,7 @@ Introducing my project:
 
 
 MedInsure is a cutting-edge application built with machine learning at its core. Its mission is to provide individuals with accurate predictions of their potential medical insurance coverage based on various factors, including lifestyle choices, health metrics, and more.
+
 --------
 
 These projects are just a glimpse of what I've been up to. Now, let me share more about my background and interests.
