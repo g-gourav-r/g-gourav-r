@@ -25,7 +25,17 @@ Introducing my project aimed at bridging this gap:
 Evade Hunger is a compassionate initiative designed to tackle the issue of food wastage and food insecurity. With this web application, I aim to connect surplus food providers with those in need, creating a platform for sharing and caring.
 
 -------------------------
-3. 🔥 [Project 3 Name](Link to Project 3 Repository) - And here's one more for good measure.
+### Meical Insurance Cost Prediction (ML)
+
+💉 Healthcare is a fundamental need, and having the right medical insurance coverage can make a significant difference in one's life. However, accurately predicting how much insurance coverage a person can obtain can be complex. 😷
+
+Introducing my project:
+
+🏥 [Medical Insurance Cost Predictor](https://github.com/g-gourav-r/Insurance-Cost-Predictor)
+
+
+MedInsure is a cutting-edge application built with machine learning at its core. Its mission is to provide individuals with accurate predictions of their potential medical insurance coverage based on various factors, including lifestyle choices, health metrics, and more.
+--------
 
 These projects are just a glimpse of what I've been up to. Now, let me share more about my background and interests.
 
