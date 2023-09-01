@@ -4,28 +4,21 @@ Welcome to my GitHub profile! I'm passionate about technology and have worked on
 
 ## 🌟 Projects That Make Me Proud
 
+### Smart Carry (IoT)
+[![Smart Backpack](https://img.shields.io/badge/Smart%20Backpack-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Smart-Carry-Bagpack)
 
-<div style="display: flex; justify-content: space-between;">
-  
-  <div style="flex: 1; margin: 10px; padding: 15px; border: 1px solid #e0e0e0; border-radius: 5px;">
-    <h3>Smart Carry (IoT)</h3>
-    <p>We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? 😟</p>
-    <a href="https://github.com/g-gourav-r/Smart-Carry-Bagpack">Explore Project</a>
-  </div>
+We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? 😟 Smart Carry is a revolutionary solution designed to ensure that carrying your backpack is not a burden on your health.
 
-  <div style="flex: 1; margin: 10px; padding: 15px; border: 1px solid #e0e0e0; border-radius: 5px;">
-    <h3>Evade Hunger (PHP)</h3>
-    <p>Food is what has kept us alive till now, but it's disheartening to think that in some places, food goes to waste due to excess while others struggle to find a meal. 😔</p>
-    <a href="https://github.com/g-gourav-r/Evade-Hunger">Explore Project</a>
-  </div>
+### Evade Hunger (PHP)
+[![Evade Hunger](https://img.shields.io/badge/Evade%20Hunger-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Evade-Hunger)
 
-  <div style="flex: 1; margin: 10px; padding: 15px; border: 1px solid #e0e0e0; border-radius: 5px;">
-    <h3>Medical Insurance Cost Predictor (ML)</h3>
-    <p>Healthcare is a fundamental need, and having the right medical insurance coverage can make a significant difference in one's life. However, accurately predicting how much insurance coverage a person can obtain can be complex. 😷</p>
-    <a href="https://github.com/g-gourav-r/Insurance-Cost-Predictor">Explore Project</a>
-  </div>
+Food is what has kept us alive till now, but it's disheartening to think that in some places, food goes to waste due to excess while others struggle to find a meal. 😔 Evade Hunger is a compassionate initiative designed to tackle the issue of food wastage and food insecurity.
 
-</div>
+### Medical Insurance Cost Predictor (ML)
+[![Insurance Cost Predictor](https://img.shields.io/badge/Insurance%20Cost%20Predictor-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Insurance-Cost-Predictor)
+
+Healthcare is a fundamental need, and having the right medical insurance coverage can make a significant difference in one's life. However, accurately predicting how much insurance coverage a person can obtain can be complex. 😷 MedInsure is a cutting-edge application built with machine learning at its core to address this challenge.
+
 ## 🌍 About Me
 
 Here's a fun-filled glimpse into my world:
