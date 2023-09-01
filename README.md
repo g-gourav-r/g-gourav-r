@@ -40,8 +40,6 @@ MedInsure is a cutting-edge application built with machine learning at its core.
 
 These projects are just a glimpse of what I've been up to. Now, let me share more about my background and interests.
 
-Welcome to the carnival of code!
-
 Here's a fun-filled glimpse into my world:
 
 - 🔭 I’m currently pursuing my bachelors in Computer Science Engineering. 🎩✨
@@ -55,7 +53,7 @@ Here's a fun-filled glimpse into my world:
 
 I wield a cosmic toolbox of technologies and tools, including:
 
-- HTML, CSS, PHP, JS
+- 🌐 HTML, CSS, PHP, JS
 - 🔮 Python
 - 🌟 C, C++
 - 📱 MAD ( Mobile Application Development )
@@ -65,15 +63,6 @@ I wield a cosmic toolbox of technologies and tools, including:
 - 🪐 [LinkedIn](https://www.linkedin.com/in/gourav-r/)
 - 🌌 [My Dazzling Portfolio](https://www.linkedin.com/in/gourav-r/)
 - 📧 [Email](gouravrchandra@gmail.com)
-
-## 🌟 Projects that make me proud
-
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Insurance-Cost-Predictor&theme=radical)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Smart-Carry-Bagpack&theme=radical)
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=g-gourav-r&repo=Evade-Hunger&theme=radical)
-[![Medical Insurance Cost Predictor](https://img.shields.io/badge/Project%20Name-Click%20to%20Read%20More-blue)]([https://github.com/your-username/your-repository](https://github.com/g-gourav-r/Insurance-Cost-Predictor#readme))
-
-
 
 Feel free to embark on a journey through my repositories to explore more of my digital escapades!
 
