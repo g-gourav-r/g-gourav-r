@@ -29,7 +29,7 @@ Here's a fun-filled glimpse into my world:
 - 📫 Reach me through gouravrchandra@gmail.com or join me in the digital circus on:
 
   - [LinkedIn](https://www.linkedin.com/in/gourav-r/) 🎪
-  - [My Wacky Portfolio](https://www.linkedin.com/in/gourav-r/) 🎉
+  - [My Wacky Portfolio](https://www.gouravr.netlify.app) 🎉
 
 ## 🚀 My Cosmic Toolbox
 
