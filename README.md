@@ -26,12 +26,18 @@ Looking forward to exciting collaborations and vibrant conversations!
 |-------|-------------|---------------------|-----------------|
 | ![Overview](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ef298032-4b03-4641-a5c0-2b8ba6d83ab3) <br> [![The Third Eye](https://img.shields.io/badge/The%20Third%20Eye-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/the-third-eye)| The Third Eye is a Python project designed to utilize CCTV cameras for the purpose of tracking down missing individuals. |  **Front-End:** HTML, CSS, Bootstrap  **Back-End:** Flask  **Database:** SQLite3 | - Using different Non-relational databases - Implementing User Authentication - Enhancing UI |
 
-### Smart Carry (IoT)
+### Smart Carry
 
 | Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
 |-------|-------------|--------------------|-------------------------------------------------------|
 | ![smartbackpack](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/5b2bee29-8d65-43a6-a8d9-ff27c70f284b) [![Evade Hunger](https://img.shields.io/badge/Smart%20Carry-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Smart-Carry-Bagpack)| We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
 
+
+### Smart Carry
+
+| Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
+|-------|-------------|--------------------|-------------------------------------------------------|
+| ![smartbackpack](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/5b2bee29-8d65-43a6-a8d9-ff27c70f284b) [![Evade Hunger](https://img.shields.io/badge/Smart%20Carry-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Smart-Carry-Bagpack)| We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
 
 
 
