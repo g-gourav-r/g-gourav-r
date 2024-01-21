@@ -8,7 +8,23 @@ I believe that being a jack of all trades and playing my trump card when necessa
 |:----------------------------------:|:-----------------------------:|:---------------------------:|:------------------------------:|:---------------------------:|:------------------------------:|:------------------------------:|
 | HTML, CSS, JS, Bootstrap, React     | FastAPI, Flask, Node JS        | SQL, SQLite, MongoDB        | VS Code, Jupyter, PyCharm       | Postman, Canva, Power BI    | Wordpress, Craft CMS (novice)  | C, Java, Markdown
 
+## Project A: XYZ Application
 
+| Image | Description |
+|-------|-------------|
+| ![Project A](link_to_project_A_image) | Brief description of the project and its purpose. |
+
+### Technologies Used
+
+| Technology | Description |
+|------------|-------------|
+| Tech 1     | Description of technology 1. |
+| Tech 2     | Description of technology 2. |
+| Tech 3     | Description of technology 3. |
+
+### Changes Needed
+
+- List any changes or improvements someone might be interested in contributing to.
 
 
 ## 🌟 Projects That Make Me Proud
