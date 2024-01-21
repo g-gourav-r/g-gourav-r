@@ -1,5 +1,4 @@
-
-![Gourav R (1)-min](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/c8088adb-2564-4beb-8070-5dff6b3fe676)
+![Gourav R (1)-min](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/77c445ab-0ed4-4a98-9618-f36d45844471)
 
 Hey there !
 
