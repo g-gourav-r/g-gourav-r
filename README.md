@@ -6,13 +6,18 @@ I believe that being a jack of all trades and playing my trump card when necessa
 
 | Front-End                          | Back-End                      | Data-Base                   | IDE                            | Tools                      | CMS                            | Misc. |
 |:----------------------------------:|:-----------------------------:|:---------------------------:|:------------------------------:|:---------------------------:|:------------------------------:|:------------------------------:|
-| HTML, CSS, JS, Bootstrap, React     | FastAPI, Flask, Node JS        | SQL, SQLite, MongoDB        | VS Code, Jupyter, PyCharm       | Postman, Canva, Power BI    | Wordpress, Craft CMS (novice)  | C, Java, Markdown
+| HTML, CSS, JS, Bootstrap, React     | FastAPI, Flask, Node JS        | SQL, SQLite, MongoDB        | VS Code, Jupyter, PyCharm       | Postman, Canva, Power BI    | Wordpress, Craft CMS (novice)  | C, Java, Markdown, Browser Extensions |
 
-## Project A: XYZ Application
+# Projects
 
-| Image | Description |
-|-------|-------------|
-| ![Project A](link_to_project_A_image) | Brief description of the project and its purpose. |
+
+## The Third Eye
+
+| Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
+|-------|-------------|---------------------|-----------------|
+| ![Overview](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ef298032-4b03-4641-a5c0-2b8ba6d83ab3) | The Third Eye is a Python project designed to utilize CCTV cameras for the purpose of tracking down missing individuals. | Front-End: HTML, CSS, Bootstrap Back-End: Flask Database: SQLite3 | Using different Non-relational databases, Implementing User Authentication, Enhancing UI |
+
+
 
 ### Technologies Used
 
