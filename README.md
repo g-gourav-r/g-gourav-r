@@ -30,7 +30,7 @@ Looking forward to exciting collaborations and vibrant conversations!
 
 | Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
 |-------|-------------|--------------------|-------------------------------------------------------|
-| ![thirdeye](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ffbf085a-2b06-4c7f-9087-7881dc912bed) ![smartbackpack](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/5b2bee29-8d65-43a6-a8d9-ff27c70f284b)| We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
+| ![smartbackpack](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/5b2bee29-8d65-43a6-a8d9-ff27c70f284b) [![Evade Hunger](https://img.shields.io/badge/Evade%20Hunger-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Evade-Hunger)| We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
 
 
 
