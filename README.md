@@ -15,11 +15,8 @@ I believe that being a jack of all trades and playing my trump card when necessa
 
 | Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
 |-------|-------------|---------------------|-----------------|
-| ![Overview](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ef298032-4b03-4641-a5c0-2b8ba6d83ab3) | The Third Eye is a Python project designed to utilize CCTV cameras for the purpose of tracking down missing individuals. | 
-| Front-End | Back-End | Database |
-| --- | --- | --- |
-| HTML, CSS, Bootstrap | Flask | SQLite3 |
-| Using different Non-relational databases, Implementing User Authentication, Enhancing UI |
+| ![Overview](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ef298032-4b03-4641-a5c0-2b8ba6d83ab3) | The Third Eye is a Python project designed to utilize CCTV cameras for the purpose of tracking down missing individuals. | Front-End: HTML, CSS, Bootstrap Back-End: Flask Database: SQLite3 | Using different Non-relational databases, Implementing User Authentication, Enhancing UI |
+
 
 
 
