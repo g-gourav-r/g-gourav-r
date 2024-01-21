@@ -8,11 +8,14 @@ I believe that being a jack of all trades and playing my trump card when necessa
 |:----------------------------------:|:-----------------------------:|:---------------------------:|:------------------------------:|:---------------------------:|:------------------------------:|:------------------------------:|
 | HTML, CSS, JS, Bootstrap, React     | FastAPI, Flask, Node JS        | SQL, SQLite, MongoDB        | VS Code, Jupyter, PyCharm       | Postman, Canva, Power BI    | Wordpress, Craft CMS (novice)  | C, Java, Markdown, Browser Extensions |
 
-## Reach out to me at 
+## Reach out to me at:
 
-- [LinkedIn](https://www.linkedin.com/in/gourav-r/)
-- [Portfolio](https://www.gouravr.netlify.app) 
-- [Email](gouravrchandra@gmail.com)
+- **LinkedIn:** [Let's Network on LinkedIn](https://www.linkedin.com/in/gourav-r/) 🌐
+- **Portfolio:** [Explore My Work](https://www.gouravr.netlify.app) 💻
+- **Email:** 📧 Drop me a line at gouravrchandra@gmail.com
+
+Looking forward to exciting collaborations and vibrant conversations!
+
 
 ## Projects
 
