@@ -30,7 +30,7 @@ Looking forward to exciting collaborations and vibrant conversations!
 
 | Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
 |-------|-------------|--------------------|-------------------------------------------------------|
-|![](./Assets/Gourav R.png) [![Smart Backpack](https://img.shields.io/badge/Smart%20Backpack-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Smart-Carry-Bagpack) | We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
+|![GIF]((https://github.com/g-gourav-r/g-gourav-r/blob/main/Assets/smartbackpack.gif)) [![Smart Backpack](https://img.shields.io/badge/Smart%20Backpack-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Smart-Carry-Bagpack) | We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
 
 
 
