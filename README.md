@@ -1,5 +1,6 @@
-# 👋 Hello, I'm Gourav R!
 
+![Gourav R](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/75ecef14-1dac-4c40-9b58-ab9874299ab8)
+# 👋 Hello, I'm Gourav R!
 Welcome to my GitHub profile! I'm passionate about technology and have worked on various projects. Here's a glimpse of what I'm proud of:
 
 ## 🌟 Projects That Make Me Proud
