@@ -81,6 +81,38 @@ Looking forward to exciting collaborations and vibrant conversations!
         <td>HTML, CSS, JavaScript, Chrome Manifest V3</td>
         <td>- A better UI<br>- Using MongoDB</td>
     </tr>
+	<tr>
+    <td>
+      <a href="https://github.com/g-gourav-r/Evade-Hunger">
+        <img src="https://img.shields.io/badge/Evade%20Hunger-Click%20to%20Explore-blue" alt="Evade Hunger">
+      </a>
+    </td>
+    <td>
+      <b>Evade Hunger</b><br>
+      Food is what has kept us alive till now, but it's disheartening to think that in some places, food goes to waste due to excess while others struggle to find a meal. 😔 Evade Hunger is a compassionate initiative designed to tackle the issue of food wastage and food insecurity.
+    </td>
+    <td>PHP</td>
+    <td>
+      - Implementing features to optimize food distribution<br>
+      - Enhancing the user interface for better accessibility
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/g-gourav-r/Insurance-Cost-Predictor">
+        <img src="https://img.shields.io/badge/Insurance%20Cost%20Predictor-Click%20to%20Explore-blue" alt="Insurance Cost Predictor">
+      </a>
+    </td>
+    <td>
+      <b>Insurance Cost Predictor</b><br>
+      Healthcare is a fundamental need, and having the right medical insurance coverage can make a significant difference in one's life. However, accurately predicting how much insurance coverage a person can obtain can be complex. 😷 MedInsure is a cutting-edge application built with machine learning at its core to address this challenge.
+    </td>
+    <td>Machine Learning (ML)</td>
+    <td>
+      - Improving accuracy of insurance cost predictions<br>
+      - Implementing additional features to enhance user experience
+    </td>
+  </tr>
 </table>
 
 
