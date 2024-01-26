@@ -8,6 +8,28 @@ I believe that being a jack of all trades and playing my trump card when necessa
 |:----------------------------------:|:-----------------------------:|:---------------------------:|:------------------------------:|:---------------------------:|:------------------------------:|:------------------------------:|
 | HTML, CSS, JS, Bootstrap, React     | FastAPI, Flask, Node JS        | SQL, SQLite, MongoDB        | VS Code, Jupyter, PyCharm       | Postman, Canva, Power BI    | Wordpress, Craft CMS (novice)  | C, Java, Markdown, Browser Extensions |
 
+<table>
+<tr>
+	<td><strong>Front-End</strong></td>
+	<td><strong>Back-End</strong></td>
+	<td><strong>Data-Base</strong></td>
+	<td><strong>Editors</strong></td>
+ <td><strong>Tools</strong></td>
+ <td><strong>CMS</strong></td>
+ <td><strong>Misc. </strong></td>
+  
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=py,fastapi,flask,nodejs"></td>
+	<td><img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb"></td>
+	<td><img src = "https://skillicons.dev/icons?i=vscode,anaconda"></td>
+  <td><img src = "https://skillicons.dev/icons?i=postman">, Canva, Power BI</td>
+  <td><img src = "https://skillicons.dev/icons?i=wordpress">, CraftCMS</td>
+  <td><img src = "https://skillicons.dev/icons?i=c,java,md">, Chrome Manifest</td>
+</tr>
+</table>
+
 ## Reach out to me at:
 
 - **LinkedIn:** [Let's Network on LinkedIn](https://www.linkedin.com/in/gourav-r/) 🌐
