@@ -7,24 +7,35 @@ I believe that being a jack of all trades and playing my trump card when necessa
 
 <table>
    <tr>
-      <td><strong>Front-End</strong></td>
-      <td><strong>Back-End</strong></td>
-      <td><strong>Data-Base</strong></td>
-      <td><strong>Editors</strong></td>
-      <td><strong>Tools</strong></td>
-      <td><strong>CMS</strong></td>
-      <td><strong>Misc. </strong></td>
+      <th>Front-End</th>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react"></td>
    </tr>
    <tr>
-      <td><img src = "https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react" ></td>
-      <td><img src = "https://skillicons.dev/icons?i=py,fastapi,flask,nodejs"></td>
-      <td><img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb"></td>
-      <td><img src = "https://skillicons.dev/icons?i=vscode,anaconda"></td>
-      <td><img src = "https://skillicons.dev/icons?i=postman">Canva, Power BI</td>
-      <td><img src = "https://skillicons.dev/icons?i=wordpress">CraftCMS</td>
-      <td><img src = "https://skillicons.dev/icons?i=c,java,md">Chrome Manifest</td>
+      <th>Back-End</th>
+      <td><img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs"></td>
+   </tr>
+   <tr>
+      <th>Data-Base</th>
+      <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"></td>
+   </tr>
+   <tr>
+      <th>Editors</th>
+      <td><img src="https://skillicons.dev/icons?i=vscode,anaconda"></td>
+   </tr>
+   <tr>
+      <th>Tools</th>
+      <td><img src="https://skillicons.dev/icons?i=postman">Canva, Power BI</td>
+   </tr>
+   <tr>
+      <th>CMS</th>
+      <td><img src="https://skillicons.dev/icons?i=wordpress">CraftCMS</td>
+   </tr>
+   <tr>
+      <th>Misc.</th>
+      <td><img src="https://skillicons.dev/icons?i=c,java,md">Chrome Manifest</td>
    </tr>
 </table>
+
 
 ## Reach out to me at:
 
