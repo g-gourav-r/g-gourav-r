@@ -1,6 +1,10 @@
 ![Gourav R (1)-min](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/77c445ab-0ed4-4a98-9618-f36d45844471)
+
 Hey there !
+
 I believe that being a jack of all trades and playing my trump card when necessary is most important in this fast-evolving world. Here are a few of the things I've dabbled in.
+
+
 <table>
    <tr>
       <td><strong>Front-End</strong></td>
@@ -21,13 +25,16 @@ I believe that being a jack of all trades and playing my trump card when necessa
       <td><img src = "https://skillicons.dev/icons?i=c,java,md">Chrome Manifest</td>
    </tr>
 </table>
+
 ## Reach out to me at:
+
 - **LinkedIn:** [Let's Network on LinkedIn](https://www.linkedin.com/in/gourav-r/) 🌐
 - **Portfolio:** [Explore My Work](https://www.gouravr.netlify.app) 💻
 - **Email:** 📧 Drop me a line at gouravrchandra@gmail.com
 Looking forward to exciting collaborations and vibrant conversations!
+
 ## Projects
-### The Third Eye
+
 <table>
    <tr>
       <th>Project</th>
