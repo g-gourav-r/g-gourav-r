@@ -4,19 +4,15 @@ Hey there !
 
 I believe that being a jack of all trades and playing my trump card when necessary is most important in this fast-evolving world. Here are a few of the things I've dabbled in.
 
-| Front-End                          | Back-End                      | Data-Base                   | IDE                            | Tools                      | CMS                            | Misc. |
-|:----------------------------------:|:-----------------------------:|:---------------------------:|:------------------------------:|:---------------------------:|:------------------------------:|:------------------------------:|
-| HTML, CSS, JS, Bootstrap, React     | FastAPI, Flask, Node JS        | SQL, SQLite, MongoDB        | VS Code, Jupyter, PyCharm       | Postman, Canva, Power BI    | Wordpress, Craft CMS (novice)  | C, Java, Markdown, Browser Extensions |
-
 <table>
 <tr>
 	<td><strong>Front-End</strong></td>
 	<td><strong>Back-End</strong></td>
 	<td><strong>Data-Base</strong></td>
 	<td><strong>Editors</strong></td>
- <td><strong>Tools</strong></td>
- <td><strong>CMS</strong></td>
- <td><strong>Misc. </strong></td>
+	 <td><strong>Tools</strong></td>
+	 <td><strong>CMS</strong></td>
+	 <td><strong>Misc. </strong></td>
   
 </tr>
 <tr>
@@ -24,9 +20,9 @@ I believe that being a jack of all trades and playing my trump card when necessa
 	<td><img src = "https://skillicons.dev/icons?i=py,fastapi,flask,nodejs"></td>
 	<td><img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb"></td>
 	<td><img src = "https://skillicons.dev/icons?i=vscode,anaconda"></td>
-  <td><img src = "https://skillicons.dev/icons?i=postman">, Canva, Power BI</td>
-  <td><img src = "https://skillicons.dev/icons?i=wordpress">, CraftCMS</td>
-  <td><img src = "https://skillicons.dev/icons?i=c,java,md">, Chrome Manifest</td>
+	  <td><img src = "https://skillicons.dev/icons?i=postman">Canva, Power BI</td>
+	  <td><img src = "https://skillicons.dev/icons?i=wordpress">CraftCMS</td>
+	  <td><img src = "https://skillicons.dev/icons?i=c,java,md">Chrome Manifest</td>
 </tr>
 </table>
 
