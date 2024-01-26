@@ -40,19 +40,49 @@ Looking forward to exciting collaborations and vibrant conversations!
 
 ### The Third Eye
 
-| Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
-|-------|-------------|---------------------|-----------------|
-| ![Overview](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ef298032-4b03-4641-a5c0-2b8ba6d83ab3) <br> [![The Third Eye](https://img.shields.io/badge/The%20Third%20Eye-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/the-third-eye)| The Third Eye is a Python project designed to utilize CCTV cameras for the purpose of tracking down missing individuals. |  **Front-End:** HTML, CSS, Bootstrap  **Back-End:** Flask  **Database:** SQLite3 | - Using different Non-relational databases - Implementing User Authentication - Enhancing UI |
+<table>
+    <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Technologies Used</th>
+        <th>Changes Needed (you might be interested in contributing)</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/g-gourav-r/g-gourav-r/assets/75977813/ef298032-4b03-4641-a5c0-2b8ba6d83ab3" alt="Overview">
+            <br>
+            <a href="https://github.com/g-gourav-r/the-third-eye">
+                <img src="https://img.shields.io/badge/The%20Third%20Eye-Click%20to%20Explore-blue" alt="The Third Eye">
+            </a>
+        </td>
+        <td>The Third Eye is a Python project designed to utilize CCTV cameras for the purpose of tracking down missing individuals.</td>
+        <td>**Front-End:** HTML, CSS, Bootstrap<br>**Back-End:** Flask<br>**Database:** SQLite3</td>
+        <td>- Using different Non-relational databases<br>- Implementing User Authentication<br>- Enhancing UI</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/g-gourav-r/g-gourav-r/assets/75977813/5b2bee29-8d65-43a6-a8d9-ff27c70f284b" alt="Smart Carry">
+            <br>
+            <a href="https://github.com/g-gourav-r/Smart-Carry-Bagpack">
+                <img src="https://img.shields.io/badge/Smart%20Carry-Click%20to%20Explore-blue" alt="Smart Carry">
+            </a>
+        </td>
+        <td>We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health.</td>
+        <td>**Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors</td>
+        <td>- Designing a compact prototype.<br>- Make the mobile app more user-friendly.</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/g-gourav-r/Jot-Its-Saved/">
+                <img src="https://img.shields.io/badge/Jot%20it's%20saved!-Click%20to%20Explore-blue" alt="Jot, it's Saved!">
+            </a>
+        </td>
+        <td>Jot, it's saved! is a user-friendly browser extension crafted for seamless note-taking within the browser environment. This project simplifies the note-saving process through an intuitive popup interface, enabling users to efficiently manage their notes without leaving the current web page. With a clean and straightforward design, the extension aims to enhance user productivity and organization.</td>
+        <td>HTML, CSS, JavaScript, Chrome Manifest V3</td>
+        <td>- A better UI<br>- Using MongoDB</td>
+    </tr>
+</table>
 
-### Smart Carry
-
-| Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
-|-------|-------------|--------------------|-------------------------------------------------------|
-| ![smartbackpack](https://github.com/g-gourav-r/g-gourav-r/assets/75977813/5b2bee29-8d65-43a6-a8d9-ff27c70f284b) [![Evade Hunger](https://img.shields.io/badge/Smart%20Carry-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Smart-Carry-Bagpack)| We wear our backpacks most of the time, but did you know that improper usage of backpacks can lead to severe spinal problems? Smart Carry is a piece of hardware designed to ensure that carrying your backpack is not a burden on your health. | **Mobile Application:** MIT App Inventor<br>**Back-End:** Arduino Programming (C++)<br>**Hardware:** Arduino, HC-05 Bluetooth Module, FSR Sensors | - Designing a compact prototype.<br>- Make the mobile app more user-friendly. |
-
-| Image | Description | Technologies Used | Changes Needed (you might be interested in contributing) |
-|-------|-------------|--------------------|-------------------------------------------------------|
-| [![Jot, it's Saved!](https://img.shields.io/badge/Jot%20it's%20saved!-Click%20to%20Explore-blue)](https://github.com/g-gourav-r/Jot-Its-Saved/) | Jot, it's saved! is a user-friendly browser extension crafted for seamless note-taking within the browser environment. This project simplifies the note-saving process through an intuitive popup interface, enabling users to efficiently manage their notes without leaving the current web page. With a clean and straightforward design, the extension aims to enhance user productivity and organization. | HTML, CSS, JavaScript, Chrome Manifest V3 | - A better UI <br>- Using MongoDB |
 
 
 ### Evade Hunger (PHP)
