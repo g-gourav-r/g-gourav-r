@@ -4,7 +4,8 @@ Hey there !
 
 I believe that being a jack of all trades and playing my trump card when necessary is most important in this fast-evolving world. Here are a few of the things I've dabbled in.
 
-## TEchnoligies I have used so far
+## Technologies I have used so far,
+
 <table>
    <tr>
       <th>Front-End</th>
